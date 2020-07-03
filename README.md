@@ -37,4 +37,4 @@ Udacity Project based on Python.
 Data is provided by [Motivate](https://www.motivateco.com)
 
 ## Copyright 
-- Vipin Kumar 
+- SALONI KWATRA 
